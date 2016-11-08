@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.app {
+    display: flex;
+    width: 900px;
+}
+
+.description {
+    color: red;
+    /*max-width: 900px;*/
+}
+
+
+
+.screenshot {
+    width: 300px;
+}
+
+/*.app {
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}*/
